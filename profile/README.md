@@ -3,8 +3,8 @@
 Freelance developer at [Orléans](https://www.orleans-metropole.fr/)
 
 ## Links 
-[Tom LUCAS 🇫🇷](https://tom-lucas.fr)
-[Tom LUCAS 🇬🇧](https://tom-lucas.com)
+[Tom LUCAS 🇫🇷](https://tom-lucas.fr)<br>
+[Tom LUCAS 🇬🇧](https://tom-lucas.com)<br>
 [https://www.linkedin.com/in/tom-lucas1/](https://www.linkedin.com/in/tom-lucas1/)
 
 ## They are working with me
