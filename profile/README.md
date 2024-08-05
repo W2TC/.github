@@ -3,14 +3,16 @@
 Freelance developer at [Orléans](https://www.orleans-metropole.fr/)
 
 ## Links 
-[https://fr.tomlucas.xyz/](https://fr.tomlucas.xyz/)<br>
+[Tom LUCAS 🇫🇷](https://tom-lucas.fr)
+[Tom LUCAS 🇬🇧](https://tom-lucas.com)
 [https://www.linkedin.com/in/tom-lucas1/](https://www.linkedin.com/in/tom-lucas1/)
 
 ## They are working with me
 [https://audiocampformations.com/](https://audiocampformations.com/)<br>
 [https://eu.pluginsmasters.com/](https://eu.pluginsmasters.com/)<br>
 [https://shamanstudio.com/](https://shamanstudio.com/)<br>
-[http://www.xapiema.fr/](http://www.xapiema.fr/)
+[https://parenthesis-ecrivain-public.fr/](https://parenthesis-ecrivain-public.fr/)
+[https://lancrebleue.com/](https://lancrebleue.com/)
 
 ## What I do
 - Wordpress
